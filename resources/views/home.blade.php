@@ -27,7 +27,7 @@
   </header>
 
   <!-- Hero Section -->
-  <section class="text-center py-20 bg-blue-50">
+  <section class="text-center py-20 bg-blue-50 min-h-screen">
     <img
     src="/images/pfp.jpg"
     alt="Foto Profil"
@@ -55,8 +55,12 @@
         Bagi saya, menjadi pengusaha bukan hanya tentang mencari keuntungan pribadi, tetapi juga tentang memberi kesempatan bagi orang lain untuk berkembang. Oleh karena itu, saya berkomitmen untuk membangun sebuah usaha yang tidak hanya menguntungkan secara ekonomi, tetapi juga memberi dampak sosial yang positif bagi masyarakat sekitar, khususnya di daerah saya yang masih memiliki tantangan dalam hal penciptaan lapangan kerja.
         
         Saya percaya bahwa kunci menuju kesuksesan terletak pada kerja keras, konsistensi, dan kemampuan untuk terus belajar. Oleh karena itu, saya terus berusaha untuk mengasah keterampilan teknis dan keterampilan kepemimpinan saya agar bisa mewujudkan impian tersebut. Dengan bekal ilmu yang saya peroleh di sekolah, pengalaman yang saya dapatkan melalui berbagai pelatihan, serta semangat yang saya miliki, saya yakin bahwa impian saya untuk menjadi pengusaha sukses dan menciptakan lapangan pekerjaan bukanlah hal yang mustahil.
-        
         </p>
+
+        <a href="/about" class="block w-full text-center bg-purple-500 hover:bg-purple-600 text-white py-2 px-4 rounded mt-4">
+          selengkapnya
+        </a>
+
   </section>
 
   <!-- Proyek -->
